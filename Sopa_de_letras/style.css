@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /*Le ponemos color de fondo a toda la página web*/
+    background-color: lightgray;
+    /*Se pone margen en todos los laterales al Body de la página web*/
+    margin: 5%;
+    padding: 5%;
+    
+
+}
+article{
+    background-color: darkslategrey;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 50px;
+}
+.divTitulos{
+    text-align: center;
+}
+.stileDiv{
+    background-color: darkgrey;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 30px;
+}
+.caja{
+    
+   
+    margin: 5px;
+    padding: 10%;
+    text-align: justify;
+    background-color: darkgrey;
+    border-radius: 30px;
+    
+}
+td{
+    border:  black;
+    background-color: white;
+    align-content: center;
+    
+}
+.Marcado{
+    border:  black;
+    background-color: rgb(179, 21, 21);
+    align-content: center;
+}
+tr{
+    margin: 5rem;
+}
